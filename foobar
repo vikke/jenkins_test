@@ -1,2 +1,2 @@
-echo yahoo
+env
 exit 0
